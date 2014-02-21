@@ -1,0 +1,20 @@
+[general]
+name = layer2csv Tools
+description = easy to convert point data into csv with column
+category = Vector
+version = 0.1.0
+qgisMinimumVersion = 2.0
+
+author = Hiroaki Sengoku (microbase.LLC)
+email = hsengoku@live.jp
+
+icon = icon/crs_icon.png
+
+tags = vector,shapes,csv
+
+homepage =
+tracker = #http://hub.qgis.org/projects/mergeshapes/issues
+repository = #https://github.com/alexbruy/mergeshapes
+
+experimental = False
+deprecated = False
